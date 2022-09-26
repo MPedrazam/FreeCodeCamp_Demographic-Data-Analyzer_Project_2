@@ -1,4 +1,4 @@
-# FreeDataCamp_Demographic-Data-Analyzer_Project_2
+# FreeCodeCamp_Demographic-Data-Analyzer_Project_2
 
 Second project
 
