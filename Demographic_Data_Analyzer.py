@@ -3,7 +3,7 @@ import numpy as np
 
 
 
-table = pd.read_csv("C:/Users/manuu/OneDrive/Escritorio/Python scripts/adult.data.csv")
+table = pd.read_csv("adult.data.csv")
 
 # How many people of each race are represented in this dataset?
 count_race = table["race"].value_counts()
